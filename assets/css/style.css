@@ -77,14 +77,14 @@ section {
     position: absolute;
     bottom: 120px;
     right: 140px;
-    position: absolute;
 }
-.hero-form p{
-    margin: 5px 0 15px 0;
-}
+
 .hero-form h3{
     font-size: 24px;
     margin: 0;
+}
+.hero-form p{
+    margin: 5px 0 15px 0;
 }
 .form-input{
     border: 1px solid #024e76;
@@ -96,7 +96,7 @@ section {
     margin-bottom: 15px;
 }
 .hero-form label {
-    margin: 5px;
+    margin: 0 5px;
 }
 .hero-form button{
     background-color: #024e76;
